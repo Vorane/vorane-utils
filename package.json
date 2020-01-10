@@ -1,0 +1,19 @@
+{
+  "name": "vorane-utils",
+  "version": "1.0.0",
+  "description": "Simple usefull function for JS",
+  "main": "dis/utils.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "Evans Munene",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  }
+}
